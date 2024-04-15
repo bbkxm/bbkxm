@@ -29,7 +29,7 @@
 只会写简单的代码和一些好玩的小东西😂
 
 经常整的活
-![skills](https://skillicons.dev/icons?perline=14&i=bash,devto,discord,docker,git,github,githubactions,go,html,java,js,linux,md,mysql,nginx,nodejs,ps,py,pytorch,redis,sqlite,stackoverflow,twitter,ts,vercel,vscode,vue,workers,c)
+![skills](https://skillicons.dev/icons?perline=14&i=java,vue,rust,bash,devto,discord,docker,git,github,githubactions,go,html,js,linux,md,mysql,nginx,nodejs,ps,py,pytorch,redis,sqlite,stackoverflow,twitter,ts,vercel,vscode,workers,c)
 
 [![](https://raw.githubusercontent.com/bbkxm/bbkxm/main/out/ocean.gif)](https://github.com/bbkxm)
 
